@@ -2,6 +2,14 @@
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.28.3.
 
+## Unable to install angular-cli
+Go to user profile.                              
+Show hidden files.                    
+Navigate to the AppData folder and then to Roaming.                
+Clear the contents of node and npm folders.          
+Install angular cli again using npm install -g angular-cli     
+
+
 ## Development server
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
